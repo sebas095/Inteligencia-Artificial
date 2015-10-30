@@ -1,0 +1,4 @@
+http://aima.cs.berkeley.edu/python/games.html
+http://neverstopbuilding.com/minimax
+https://www.ocf.berkeley.edu/~yosenl/extras/alphabeta/alphabeta.html
+https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaGame_TicTacToe_AI.html
