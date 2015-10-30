@@ -1593,6 +1593,7 @@ gPats = [
 	[r'(¿)?(S|s)abes programar(.*)\??',
 	['Dos veces World final',
 	'La programacion es mi vida',
+	"No eso es muy mainstream para mi",
 	'La FFT se me da bien',
 	'Fefetealo che!',
 	"Si, se progrmar es diversos lenguajes",
@@ -1717,6 +1718,7 @@ gPats = [
 	[ "¿Por que no me dices tu?",
 	"¿Tu crees que %2?",
 	"¿Por que me preguntas eso?",
+	"Porque eso es muy mainstream para mi", 
 	"¿Realmente importa eso?",
 	"Cambiemos de tema"]],
 
@@ -1784,6 +1786,7 @@ gPats = [
 	"Ya veo.",
 	"Muy interesante.",
 	"%1.",
+	"Eso es muy mainstream para mi,
 	"OK, y eso ¿que te dice?",
 	"Y eso ¿como te hace sentir?",
 	"¿Como te sientes cuando dices eso?"]]
